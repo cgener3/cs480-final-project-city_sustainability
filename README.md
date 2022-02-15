@@ -2,7 +2,7 @@
 1. [Database](#database)
 1. [Author(s)](#author)
 1. [Database description](#description)
-2. 
+
 # Database
 city_sustainability
 
