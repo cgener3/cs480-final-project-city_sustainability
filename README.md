@@ -1,1 +1,16 @@
-[![Work in MakeCode](https://classroom.github.com/assets/work-in-make-code-c53f0c86300af1a64cdd5dc830e2509efd17c8cb483a722cacaee84d10eb8ec9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6985444&assignment_repo_type=AssignmentRepo)
+## Table of Contents
+1. [Database](#database)
+1. [Author(s)](#author)
+1. [Database description](#description)
+2. 
+# Database
+city_sustainability
+
+# Author(s)
+Ramon Ferrer	
+Caleb Gener	
+Het Patel	
+Bryan Zbojna
+
+# Database description
+This project will aim to help create sustainable cities. I want to store data about cities. The cities will be identified using a unique ID, Each city will have data about their Population, Area, Population Density, Energy Consumption, Carbon Emissions, Highest Source of Carbon Emissions. Software applications could use this data to identify cities that need to be more sustainable. Metrics such as population, and population density can help show how many people are at risk from polluted cities. I think this database is original because of the Highest Source of Carbon Emissions data. This data can be used to prioritize the actions being taken by the city.
